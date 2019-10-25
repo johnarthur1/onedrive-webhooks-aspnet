@@ -1,3 +1,13 @@
+---
+page_type: sample
+products:
+- office-onedrive
+languages:
+- javascript
+extensions:
+  contentType: samples
+  createdDate: 3/14/2016 10:52:16 AM
+---
 # OneDrive Webhooks ASP.NET Sample
 
 This ASP.NET MVC sample shows how to receive notifications from OneDrive
